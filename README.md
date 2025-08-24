@@ -1,5 +1,5 @@
 
-# 💣 Boom Boom ~ Tirth Dhandhukia
+# 💣 Minesweeper 
 
 A modern, responsive **Minesweeper** game built with **HTML**, **CSS (Tailwind + custom styles)**, and **JavaScript**.  
 It features smooth animations, a beautiful **GPT-5 inspired gradient background**, light/dark theme toggle, and adjustable difficulty levels.
