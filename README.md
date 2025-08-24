@@ -19,15 +19,11 @@ It features smooth animations, a beautiful **GPT-5 inspired gradient background*
 
 ---
 
-## 🖼 Preview
-*(Add a screenshot of your game here)*
-
----
 
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/minesweeper-gpt5.git
+git clone https://github.com/Tirthdhandhukia 30/minesweeper-gpt5.git
 cd minesweeper-gpt5
 
