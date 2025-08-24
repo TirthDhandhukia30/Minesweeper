@@ -24,6 +24,5 @@ It features smooth animations, a beautiful **GPT-5 inspired gradient background*
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Tirthdhandhukia 30/minesweeper-gpt5.git
-cd minesweeper-gpt5
-
+git clone https://github.com/TirthDhandhukia30/Minesweeper              minesweeper.git
+cd minesweeper
